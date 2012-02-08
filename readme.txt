@@ -9,8 +9,9 @@ Mark fields as Required in Advanced Custom Fields. A post can not be published w
 
 == Description ==
 
-This is an add-on for [Advanced Custom Fields](http://wordpress.org/extend/plugins/advanced-custom-fields/)
-and will provide no functionality to WordPress unless Advanced Custom Fields is installed and activated.
+This is an add-on for the [Advanced Custom Fields](http://wordpress.org/extend/plugins/advanced-custom-fields/)
+WordPress plugin and will not provide any functionality to WordPress unless Advanced Custom Fields is installed
+and activated.
 
 The required field provides the ability to create fields that must be filled out before a post can be published.
 Required field is a wrapper for other field types, meaning that you can use this field with any other field in
