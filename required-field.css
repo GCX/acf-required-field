@@ -1,0 +1,19 @@
+/* Advanced Custom Fields - Required Field add-on */
+
+div.acf_postbox label span.required {
+	color: #CC0000;
+}
+
+div.acf_postbox div.inside div.required {
+	color: #CC0000;
+}
+
+#poststuff .acf_postbox div.required-field-error {
+	background-color: #FFEBE8;
+	border: 1px solid #CC0000;
+	border-radius: 3px;
+}
+
+#poststuff .acf_postbox div.required-field-error + div.field {
+	border-top: none;
+}
