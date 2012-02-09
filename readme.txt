@@ -1,5 +1,5 @@
 === Advanced Custom Fields - Required Field add-on ===
-Contributors: omicron7
+Contributors: Omicron7
 Tags: acf, acf add-on, required, custom field, required field
 Requires at least: 3.0
 Tested up to: 3.3.1
