@@ -421,7 +421,7 @@ class ACF_Required_Field_Helper {
 			$acf->update_value(
 				$post_id,
 				$field,
-				( array_key_exists( 'fields', $_POST ) && array_key_exists( $field[ 'key' ], $_POST[ 'fields' ] ) ) ? stripslashes( $_POST[ 'fields' ][ $field[ 'key' ] ] ) : ''
+				( array_key_exists( 'fields', $_POST ) && array_key_exists( $field[ 'key' ], $_POST[ 'fields' ] ) ) ? stripslashes_deep( $_POST[ 'fields' ][ $field[ 'key' ] ] ) : ''
 			 );
 			
 			$value = $acf->get_value( $post_id, $field );
