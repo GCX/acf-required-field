@@ -1,3 +1,9 @@
+This Add-on has been Deprecated
+===============================
+
+The functionality provided by this add-on is now included in [Advanced Custom Fields](http://wordpress.org/extend/plugins/advanced-custom-fields/).
+This plugin will no longer be maintained and it is recommended that everyone discontinue its use.
+
 Advanced Custom Fields - Required Field add-on
 ==============================================
 

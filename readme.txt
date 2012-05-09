@@ -5,9 +5,13 @@ Requires at least: 3.0
 Tested up to: 3.3.1
 Stable tag: 1.0
 
-Mark fields as Required in Advanced Custom Fields. A post can not be published with empty required fields.
+Deprecated. Mark fields as Required in Advanced Custom Fields. A post can not be published with empty required fields.
 
 == Description ==
+
+= This Add-on has been Deprecated =
+The functionality provided by this add-on is now included in [Advanced Custom Fields](http://wordpress.org/extend/plugins/advanced-custom-fields/).
+This plugin will no longer be maintained and it is recommended that everyone discontinue its use.
 
 This is an add-on for the [Advanced Custom Fields](http://wordpress.org/extend/plugins/advanced-custom-fields/)
 WordPress plugin and will not provide any functionality to WordPress unless Advanced Custom Fields is installed
