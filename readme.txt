@@ -2,8 +2,8 @@
 Contributors: Omicron7
 Tags: acf, acf add-on, required, custom field, required field
 Requires at least: 3.0
-Tested up to: 3.3.1
-Stable tag: 1.0
+Tested up to: 3.3.2
+Stable tag: 1.0.1
 
 Deprecated. Mark fields as Required in Advanced Custom Fields. A post can not be published with empty required fields.
 

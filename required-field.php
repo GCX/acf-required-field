@@ -2,10 +2,10 @@
 /*
 * Plugin Name: Advanced Custom Fields - Required Field add-on
 * Plugin URI:  https://github.com/GCX/acf-required-field
-* Description: This plugin is an add-on for Advanced Custom Fields. It allows you to mark a field as required and if any required fields are empty, the post will not be published, but saved as draft. This plugin requires the Advanced Custom Fields plugin to installed and activated.
+* Description: DEPRECATED. The functionality provided by this plugin is included in Advanced Custom Fields.This plugin is an add-on for Advanced Custom Fields. It allows you to mark a field as required and if any required fields are empty, the post will not be published, but saved as draft.
 * Author:      Brian Zoetewey
 * Author URI:  https://github.com/GCX
-* Version:     1.0
+* Version:     1.0.1
 * Text Domain: acf-required-field
 * Domain Path: /languages/
 * License:     Modified BSD
